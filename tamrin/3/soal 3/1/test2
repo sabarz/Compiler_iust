@@ -1,0 +1,14 @@
+if(condition){
+int a;
+a=0;
+}
+while(condition) {
+if(condition) {
+int a;
+if(true)
+{
+int g = 0;
+}
+a=0;
+}
+}
